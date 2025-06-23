@@ -1,0 +1,12 @@
+Hello! I am a chatbot built using Python and Natural Language Processing.
+A chatbot is a computer program designed to simulate conversation with human users.
+Python is a high-level, interpreted programming language known for its simplicity and versatility.
+NLTK stands for Natural Language Toolkit. It is a Python library used for working with human language data.
+TF-IDF stands for Term Frequency-Inverse Document Frequency. It is a numerical statistic used to determine how important a word is to a document.
+Cosine similarity is a measure of similarity between two non-zero vectors in an inner product space.
+Lemmatization is the process of reducing a word to its base or dictionary form.
+Tokenization is the process of breaking a sentence or paragraph into individual words or sentences.
+Machine learning allows systems to learn from data and improve without being explicitly programmed.
+Artificial Intelligence is the simulation of human intelligence processes by machines.
+Thank you for chatting with me!
+You can add more content to improve the chatbot's responses.
