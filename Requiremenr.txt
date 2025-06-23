@@ -1,0 +1,11 @@
+nltk>=3.8.1
+scikit-learn>=1.2.2
+gradio>=3.48.0
+google-cloud-dialogflow>=2.25.0
+numpy>=1.24.3
+
+💡 How to Use
+Save the above content into a file named requirements.txt.
+
+To install all dependencies in one go, run:
+pip install -r requirements.txt
